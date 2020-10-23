@@ -1,0 +1,2 @@
+# EukexCoin
+Eukex Coin
